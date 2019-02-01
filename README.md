@@ -3,7 +3,7 @@
 # **Payment Corner Python SDK**
 
 
-[![Version](https://img.shields.io/badge/python-v%202.0^-brightgreen.svg)]() 
+[![Version](https://img.shields.io/badge/python-v%202.7^-brightgreen.svg)]() 
 
 
 
