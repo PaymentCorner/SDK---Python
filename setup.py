@@ -7,10 +7,10 @@ from setuptools import setup
 
 setup(
     name='payment_corner',
-    version='0.0.1',
+    version='0.0.3',
     license='MIT',
     description="Python SDK for the Payment Corner API.",
-    long_description='',
+    long_description='Python SDK for the Payment Corner API.',
 
     author='Hassan Barbir',
     author_email='hassan.barbir@paymentcorner.com',

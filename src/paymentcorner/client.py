@@ -2,7 +2,7 @@ from paymentcorner.config import Config
 from paymentcorner.http import Http
 from paymentcorner.auth import Auth
 from paymentcorner.error import *
-from _datetime import datetime
+from datetime import datetime
 
 
 class Client(Http):
